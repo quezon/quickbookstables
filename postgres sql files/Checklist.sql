@@ -1,0 +1,2 @@
+-- call usa_schema.create_db_schema_phase1('usa_meta','usa_schema'); --done!
+-- call usa_schema.alter_db_tables_add_columns('usa_meta','usa_schema'); --done!
